@@ -1,5 +1,5 @@
 # Basic_Path_Finding_Comparison
-A comparison of Dijkstra's Algorithm (DA), Greedy Best First Search (GBFS), and A* on a 256x256 pixel map. This represents an improvement over my basic A-Star_example project.
+A comparison of Dijkstra's Algorithm (DA), Greedy Best First Search (GBFS), and A* on a 256x256 pixel map. Each test will randomly generate a new set of blockers for a given blocker percentage.
 
 The blank map file exists just to give a blank starting image to use.
 
